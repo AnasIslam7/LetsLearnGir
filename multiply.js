@@ -1,6 +1,6 @@
 let a = 5
 let b = 4
-console.log("anas")
+console.log("dav")
 function mul(a,b){
     console.log(a*b)
 }
