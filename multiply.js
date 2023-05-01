@@ -1,8 +1,7 @@
 let a = 5
 let b = 4
-let c = 5
-function mul(a,b,c){
-    console.log(a*b*c)
+function mul(a,b){
+    console.log(a*b)
 }
 
-mul(a,b,c)
+mul(a,b)
